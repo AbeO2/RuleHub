@@ -27,7 +27,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="4.3222222"
-     inkscape:cx="194.57584"
+     inkscape:cx="194.8072"
      inkscape:cy="130.83548"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
@@ -59,15 +59,15 @@
        transform="matrix(0.69937568,-0.71475426,0.75086363,0.66045728,0,0)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:182.263px;font-family:Haettenschweiler;-inkscape-font-specification:'Haettenschweiler, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.94928"
-       x="0.36094105"
-       y="208.08484"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.157px;font-family:Haettenschweiler;-inkscape-font-specification:'Haettenschweiler, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.938311"
+       x="0.4334268"
+       y="205.68045"
        id="text1"
-       transform="scale(0.9804235,1.0199674)"><tspan
+       transform="scale(0.96909488,1.0318907)"><tspan
          sodipodi:role="line"
          id="tspan1"
-         x="0.36094105"
-         y="208.08484"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:182.263px;font-family:Haettenschweiler;-inkscape-font-specification:'Haettenschweiler, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.94928">BNG2</tspan></text>
+         x="0.4334268"
+         y="205.68045"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.157px;font-family:Haettenschweiler;-inkscape-font-specification:'Haettenschweiler, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.938311">BNG2</tspan></text>
   </g>
 </svg>

@@ -11,7 +11,7 @@
    class="lucide lucide-train-track-icon lucide-train-track"
    version="1.1"
    id="svg7"
-   sodipodi:docname="train-track.svg"
+   sodipodi:docname="rulesrailroads.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,7 +27,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="34.383067"
-     inkscape:cx="12.011727"
+     inkscape:cx="12.040811"
      inkscape:cy="11.997185"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
@@ -72,13 +72,13 @@
   <text
      xml:space="preserve"
      style="font-size:13.4128px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#0d0d51;stroke-width:2.23549;stroke-opacity:0"
-     x="12.698573"
-     y="18.169537"
+     x="12.546394"
+     y="17.836029"
      id="text1-7"
      transform="scale(0.95558983,1.0464741)"><tspan
        sodipodi:role="line"
        id="tspan1-1"
-       x="12.698573"
-       y="18.169537"
+       x="12.546394"
+       y="17.836029"
        style="fill:#000000;stroke-width:2.23549">R</tspan></text>
 </svg>
