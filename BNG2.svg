@@ -59,15 +59,15 @@
        transform="matrix(0.69937568,-0.71475426,0.75086363,0.66045728,0,0)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:182.263px;font-family:Haettenschweiler;-inkscape-font-specification:'Haettenschweiler, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.94928"
-       x="0.36094105"
-       y="208.08484"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.888px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.697333"
+       x="15.824102"
+       y="152.85725"
        id="text1"
-       transform="scale(0.9804235,1.0199674)"><tspan
+       transform="scale(0.72021029,1.3884834)"><tspan
          sodipodi:role="line"
          id="tspan1"
-         x="0.36094105"
-         y="208.08484"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:182.263px;font-family:Haettenschweiler;-inkscape-font-specification:'Haettenschweiler, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.94928">BNG2</tspan></text>
+         x="15.824102"
+         y="152.85725"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.888px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.697333">BNG2</tspan></text>
   </g>
 </svg>
